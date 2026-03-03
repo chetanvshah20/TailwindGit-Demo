@@ -1,0 +1,30 @@
+{
+
+   "scripts": {
+
+      "test": "echo \"Error: no test specified\" && exit 1",
+
+      "dev": "vite"
+
+   },
+
+   "dependencies": {
+
+      "init": "^0.1.2",
+
+      "tailwindcss": "^4.2.1"
+
+   },
+
+   "devDependencies": {
+
+      "@tailwindcss/postcss": "^4.2.1",
+
+      "autoprefixer": "^10.4.27",
+
+      "vite": "^7.3.1"
+
+   }
+
+}
+
